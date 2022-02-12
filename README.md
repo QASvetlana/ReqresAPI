@@ -1,7 +1,7 @@
 
 ## Проект для https://reqres.in/
 
-![image](src/test/resources/files/reqres.jpg)
+![image](src/files/reqres.jpg)
 
 ## Использованы технологии:
 |  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Allure Report |   Jira   | Rest-Assured|
@@ -12,7 +12,7 @@ ___
 
 ## Запуск тестов происходит в CI [Jenkins](https://jenkins.autotests.cloud/job/ReqresAPI/)
 
-![image](src/test/resources/files/jenkins.jpg)
+![image](src/files/jenkins.jpg)
 
 Запуск тестов:
 ```bash
@@ -30,19 +30,19 @@ ___
 
 ## Генерация отчета происходит в Allure Report
 
-![image](src/test/resources/files/allure.jpg)
+![image](src/files/allure.jpg)
 
 ___
 ___
 
 ## Тестовая документация хранится в Allure TestOpts
 
-![image](src/test/resources/files/allureTestopts.jpg)
-![image](src/test/resources/files/allureTestopts2.jpg)
+![image](src/files/allureTestopts.jpg)
+![image](src/files/allureTestopts2.jpg)
 
 ___
 
 ## Уведомления о прохождение тестов отправляются в Telegram
 
-![image](src/test/resources/files/telegram.jpg)
+![image](src/files/telegram.jpg)
 ___
