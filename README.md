@@ -6,7 +6,7 @@
 ## Использованы технологии:
 |  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Allure Report |   Jira   | Rest-Assured|
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| ![Image alt](https://github.com/QASvetlana/Reqres/blob/master/images/logo/Java.png) | <img src="images/logo/Gradle.png" width="40" height="40"> | <img src="images/logo/JUnit5.png" width="40" height="40"> | <img src="images/logo/Selenide.png" width="40" height="40"> | <img src="images/logo/Github.png" width="40" height="40"> | <img src="images/logo/Jenkins.png" width="40" height="40"> | <img src="images/logo/Allure_Report.png" width="40" height="40"> | <img src="images/logo/Jira.png" width="40" height="40"> | <img src="images/logo/Rest-Assured.png" width="40" height="40"> |
+| <img src="images/logo/Java.png" width="40" height="40"> | <img src="images/logo/Gradle.png" width="40" height="40"> | <img src="images/logo/JUnit5.png" width="40" height="40"> | <img src="images/logo/Selenide.png" width="40" height="40"> | <img src="images/logo/Github.png" width="40" height="40"> | <img src="images/logo/Jenkins.png" width="40" height="40"> | <img src="images/logo/Allure_Report.png" width="40" height="40"> | <img src="images/logo/Jira.png" width="40" height="40"> | <img src="images/logo/Rest-Assured.png" width="40" height="40"> |
 
 ___
 
